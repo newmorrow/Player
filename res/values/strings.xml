@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+	<string name="app_name">FirstTask</string>
+	<string name="splash_text">Hello user!</string>
+	<string name="splash_img_desc">Splash picture</string>
+	<string name="play_text">Play</string>
+	<string name="pause_text">Pause</string>
+	<string name="idle_state">Idle</string>
+	<string name="preparing_state">Downloading</string>
+	<string name="playing_state">Playing</string>
+	<string name="paused_state">Paused</string>
+
+</resources>
